@@ -1,33 +1,31 @@
 <p>
-  <img  src="https://img.shields.io/github/stars/BEPb/Kaggle_Stable_Diffusion_Image_to_Prompts" />
-  <img src="https://img.shields.io/github/contributors/BEPb/Kaggle_Stable_Diffusion_Image_to_Prompts" />
-  <img src="https://img.shields.io/github/last-commit/BEPb/Kaggle_Stable_Diffusion_Image_to_Prompts" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.Kaggle_Stable_Diffusion_Image_to_Prompts" />
-  <img src="https://img.shields.io/github/languages/count/BEPb/Kaggle_Stable_Diffusion_Image_to_Prompts" />
-  <img src="https://img.shields.io/github/languages/top/BEPb/Kaggle_Stable_Diffusion_Image_to_Prompts" />
+  <img  src="https://img.shields.io/github/stars/BEPb/image_to_prompt" />
+  <img src="https://img.shields.io/github/contributors/BEPb/image_to_prompt" />
+  <img src="https://img.shields.io/github/last-commit/BEPb/image_to_prompt" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.image_to_prompt" />
+  <img src="https://img.shields.io/github/languages/count/BEPb/image_to_prompt" />
+  <img src="https://img.shields.io/github/languages/top/BEPb/image_to_prompt" />
   <img src="https://img.shields.io/badge/license-MIT-blue.svg?color=f64152" />
-  <img  src="https://img.shields.io/github/issues/BEPb/Kaggle_Stable_Diffusion_Image_to_Prompts" />
-  <img  src="https://img.shields.io/github/issues-pr/BEPb/Kaggle_Stable_Diffusion_Image_to_Prompts" />
+  <img  src="https://img.shields.io/github/issues/BEPb/image_to_prompt" />
+  <img  src="https://img.shields.io/github/issues-pr/BEPb/image_to_prompt" />
 </p>
 <div align="center">
 
-<img src="./art/logo.png" alt="Bot logo" width="300" height="156.5">
+<img src="./art/rec.jpg" alt="Bot logo" width="400" height="156.5">
 
-# kaggle Stable Diffusion - Image to Prompts
+# Image to Prompts
 
 </div>
 
-## How it works?
 
-It's very simple: here are the solutions for the [Stable Diffusion - Image to Prompts](https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts/overview)
-
+It's very simple: 
 ## Order of preparation and work
 
 1. Clone the repository or download the archive from github or using the following commands on the command line
     ```command line
     $cmd
-    $ git clone https://github.com/BEPb/Kaggle_Stable_Diffusion_Image_to_Prompts
-    $ cd Kaggle_Stable_Diffusion_Image_to_Prompts
+    $ git clone https://github.com/BEPb/image_to_prompt
+    $ cd image_to_prompt
     ```
 
 2. Create a Python virtual environment.
