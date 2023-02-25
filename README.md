@@ -40,14 +40,14 @@ Check GPU
 ```commandline
  nvidia-smi -L
 ```
-<img src="./art/00.jpg" alt="scrin" ">
-<img src="./art/01.jpg" alt="scrin" ">
-<img src="./art/02.jpg" alt="scrin" ">
-<img src="./art/03.jpg" alt="scrin" ">
-<img src="./art/04.jpg" alt="scrin" ">
-<img src="./art/05.jpg" alt="scrin" ">
-<img src="./art/06.jpg" alt="scrin" ">
-<img src="./art/07.jpg" alt="scrin" ">
-<img src="./art/08.jpg" alt="scrin" ">
+<img src="./art/00.jpg" alt="scrin" >
+<img src="./art/01.jpg" alt="scrin" >
+<img src="./art/02.jpg" alt="scrin" >
+<img src="./art/03.jpg" alt="scrin" >
+<img src="./art/04.jpg" alt="scrin" >
+<img src="./art/05.jpg" alt="scrin" >
+<img src="./art/06.jpg" alt="scrin" >
+<img src="./art/07.jpg" alt="scrin" >
+<img src="./art/08.jpg" alt="scrin" >
 
 
