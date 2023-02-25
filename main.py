@@ -28,7 +28,8 @@ from clip_interrogator import Config, Interrogator
 
 config = Config()
 config.blip_num_beams = 64
-config.blip_offload = False
+config.blip_offload = True
+# config.blip_offload = False
 config.clip_model_name = clip_model_name
 ci = Interrogator(config)
 
@@ -94,4 +95,5 @@ with gr.Blocks() as ui:
     with gr.Tab("Analyze"):
         analyze_tab()
 
-ui.launch(show_api=False, debug=False)
+# ui.launch(show_api=False, debug=False)
+ui.launch(show_api=True, debug=True, share=True)
