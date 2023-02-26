@@ -45,10 +45,12 @@ run the main python program
 
 after which a local server will be launched on your computer, follow the link (open in any browser)
 <img src="./art/01.jpg" alt="scrin" >
-this page has two tabs (prompts and analyze) and additional settings that affect the speed of recognition and the result
+this page has two tabs (prompt and analyze) and additional settings that affect the speed of recognition and the result
 <img src="./art/02.jpg" alt="scrin" >
-on each of the tabs, to start the analysis, you need to select a picture on your PC and click on the button "Analyze"
+on each of the tabs, to start the analysis, you need to select a picture on your PC and click on the button 
+"Generate prompt"
 <img src="./art/03.jpg" alt="scrin" >
+or button "Analyze"
 <img src="./art/04.jpg" alt="scrin" >
 <img src="./art/05.jpg" alt="scrin" >
 <img src="./art/06.jpg" alt="scrin" >
